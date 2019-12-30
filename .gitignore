@@ -1,6 +1,3 @@
 .ipynb_checkpoints/
 generated_datasets/
-data/TEP_FaultFree_Testing.RData
-data/TEP_FaultFree_Training.RData
-data/TEP_Faulty_Testing.RData
-data/TEP_Faulty_Training.RData
+data/
