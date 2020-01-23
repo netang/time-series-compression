@@ -18,5 +18,9 @@ Once I researched this topic, but it did not produce meaningful results. Now it'
 ## Datasets preparation
 
 ## Autoencoders
+1. Dense-autoencoder
+2. Convolutional-autoencoder
+3. LSTM-autoencoder
+4. Modified U-Net
 
 ## Experiments
